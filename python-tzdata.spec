@@ -1,5 +1,5 @@
 Name:		python-tzdata
-Version:	2025.1
+Version:	2025.3
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/t/tzdata/tzdata-%{version}.tar.gz
 Summary:	Provider of IANA time zone data
