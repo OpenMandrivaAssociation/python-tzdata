@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/tzdata/
 License:	Apache-2.0
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:  python%{pyver}dist(setuptools)
 BuildSystem:	python
 BuildArch:	noarch
 
