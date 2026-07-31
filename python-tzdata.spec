@@ -1,7 +1,7 @@
 %define module tzdata
 
 Name:		python-tzdata
-Version:	2026.2
+Version:	2026.3
 Release:	1
 Summary:	Provider of IANA time zone data
 License:	Apache-2.0
